@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 
-#Installation Instructions:
+# Installation Instructions:
 1-
 2-
 3-
@@ -10,4 +10,4 @@
 
 
 
-#Results:
+# Results:
