@@ -1,18 +1,3 @@
-# HLT-Transformer
-
-# Installation Instructions:
-1-
-2-
-3-
-4-
-
-# Model Architecture
-
-
-
-# Results:
-
-
-
-# Dataset Details:
+# HLT Transformer: Sentiment Analysis of Pakistan`s Healthcare: Transformer Based
+Sentiment Analysis and Interpretable Model Insights for Informed Decision Making (Master's Research)
 
